@@ -11,16 +11,39 @@ name:
 postnominals: []
 status:
   icon: ''
-role: ''
-bio: ''
+role: Applied Informatics student, RUDN University
+bio: |
+  I'm an Applied Informatics student at RUDN University in Moscow. Most of my
+  time goes into math and programming courses. On this site I keep notes on
+  what I learn week to week, plus longer write-ups on tools I use in my
+  studies: Git, Markdown, LaTeX and others.
 
-affiliations: []
+affiliations:
+  - name: RUDN University
+    url: https://eng.rudn.ru/
 
-links: []
+links:
+  - icon: at-symbol
+    url: mailto:1132249999@rudn.ru
+    label: E-mail
 
-interests: []
+interests:
+  - Python programming
+  - Web technologies
+  - Data analysis
+  - Applied mathematics
 
-education: []
+education:
+  - degree: BSc Applied Informatics
+    institution: RUDN University, Faculty of Physical, Mathematical and Natural Sciences
+    start: 2025-09-01
+    summary: |
+      Coursework so far: calculus, discrete mathematics, programming basics,
+      and a web technologies project (this site is part of it).
+  - degree: Secondary education, advanced mathematics class
+    institution: Secondary school, Moscow
+    start: 2014-09-01
+    end: 2025-06-20
 
 experience: []
 
