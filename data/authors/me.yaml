@@ -29,8 +29,8 @@ links:
   - icon: brands/github
     url: https://github.com/Frog578nin
     label: GitHub
-  # Research profiles: replace the URLs below with personal profile links
-  # once the accounts are registered.
+  # Still pointing at the sites themselves: eLibrary, Google Scholar,
+  # Mendeley, ResearchGate and arXiv await personal profile links.
   - icon: hero/book-open
     url: https://elibrary.ru/
     label: eLibrary
@@ -38,7 +38,7 @@ links:
     url: https://scholar.google.com/
     label: Google Scholar
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0000-5463-3389
     label: ORCID
   - icon: academicons/mendeley
     url: https://www.mendeley.com/
@@ -47,7 +47,7 @@ links:
     url: https://www.researchgate.net/
     label: ResearchGate
   - icon: academicons/academia
-    url: https://www.academia.edu/
+    url: https://independent.academia.edu/KirillCheluhaev
     label: Academia.edu
   - icon: academicons/arxiv
     url: https://arxiv.org/
