@@ -2,9 +2,9 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Kirill Chelukhaev
+  display: Kirill Cheluhaev
   given: Kirill
-  family: Chelukhaev
+  family: Cheluhaev
   alternate: 'Кирилл Челухаев'
   pronunciation: ''
   pronouns: ''
