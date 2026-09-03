@@ -26,21 +26,21 @@ sections:
         shape: circle
   - block: markdown
     content:
-      title: 'About this site'
+      title: 'Об этом сайте'
       subtitle: ''
       text: |-
-        I built this site as part of a first-semester web technologies project.
-        It runs on Hugo and lives on GitHub Pages.
+        Я собрал этот сайт в рамках учебного проекта по веб-технологиям на
+        первом курсе. Он работает на Hugo и живёт на GitHub Pages.
 
-        The blog has two kinds of posts: short weekly notes on what I studied,
-        and longer write-ups on tools like Git and Markdown. Everything is
-        available in English and Russian.
+        В блоге два типа записей: короткие еженедельные заметки о том, чем я
+        занимался, и тексты подлиннее об инструментах вроде Git и Markdown.
+        Всё есть на русском и английском.
     design:
       columns: '1'
   - block: collection
     id: news
     content:
-      title: Recent posts
+      title: Свежие посты
       subtitle: ''
       text: ''
       page_type: blog

@@ -4,19 +4,32 @@
 
 # Default language
 en:
+  label: English
   locale: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  weight: 1
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  locale: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+# Russian version
+ru:
+  label: Русский
+  locale: ru-ru
+  weight: 2
+  params:
+    description: Персональный сайт Кирилла Челухаева, студента направления
+      «Прикладная информатика» РУДН.
+    hugoblox:
+      identity:
+        name: 'Кирилл Челухаев'
+  menu:
+    main:
+      - name: Обо мне
+        url: /
+        weight: 10
+      - name: Посты
+        url: blog/
+        weight: 20
+      - name: Опыт
+        url: experience/
+        weight: 30
+      - name: Проекты
+        url: projects/
+        weight: 40

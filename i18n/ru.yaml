@@ -1,0 +1,25 @@
+# Дополнения к русским переводам модуля blox (ключи, которых там не хватает,
+# и пара неудачных переводов).
+- id: present
+  translation: настоящее время
+
+- id: about_me
+  translation: Обо мне
+
+- id: experience
+  translation: Опыт
+
+- id: read_more
+  translation: Читать дальше
+
+- id: questions
+  translation: Вопросы
+
+- id: faq
+  translation: Вопросы и ответы
+
+- id: docs
+  translation: Документация
+
+- id: poweredby_button
+  translation: 'Сделать такой же →'

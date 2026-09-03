@@ -1,0 +1,126 @@
+# Русские переводы профиля. Поля отсюда накрывают data/authors/me.yaml
+# для русской версии сайта (см. functions/get_authors_data в модуле blox).
+name:
+  display: Кирилл Челухаев
+  given: Кирилл
+  family: Челухаев
+  alternate: 'Kirill Chelukhaev'
+role: Студент направления «Прикладная информатика», РУДН
+bio: |
+  Я учусь на направлении «Прикладная информатика» в РУДН. Больше всего
+  времени уходит на математику и программирование. Здесь я записываю, что
+  узнаю от недели к неделе, и пишу тексты подлиннее об инструментах, которыми
+  пользуюсь в учёбе: Git, Markdown, LaTeX и других.
+
+affiliations:
+  - name: РУДН
+    url: https://www.rudn.ru/
+
+links:
+  - icon: at-symbol
+    url: mailto:1132249999@rudn.ru
+    label: Почта
+  - icon: brands/github
+    url: https://github.com/Frog578nin
+    label: GitHub
+  # Научные профили: заменить адреса на личные, когда аккаунты будут созданы.
+  - icon: hero/book-open
+    url: https://elibrary.ru/
+    label: eLibrary
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+    label: Google Scholar
+  - icon: academicons/orcid
+    url: https://orcid.org/
+    label: ORCID
+  - icon: academicons/mendeley
+    url: https://www.mendeley.com/
+    label: Mendeley
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/
+    label: ResearchGate
+  - icon: academicons/academia
+    url: https://www.academia.edu/
+    label: Academia.edu
+  - icon: academicons/arxiv
+    url: https://arxiv.org/
+    label: arXiv
+
+interests:
+  - Программирование на Python
+  - Веб-технологии
+  - Анализ данных
+  - Прикладная математика
+
+education:
+  - degree: Бакалавриат, «Прикладная информатика»
+    institution: РУДН, факультет физико-математических и естественных наук
+    start: 2025-09-01
+    summary: |
+      Из пройденного: математический анализ, дискретная математика, основы
+      программирования и проект по веб-технологиям (этот сайт — его часть).
+  - degree: Среднее образование, класс с углублённой математикой
+    institution: Средняя школа, Москва
+    start: 2014-09-01
+    end: 2025-06-20
+
+experience:
+  - role: Репетитор по информатике
+    org: Частная практика
+    start: 2024-09-01
+    summary: |
+      Помогаю школьникам с основами Python и подготовкой к экзаменам по
+      информатике. Обычно два-три ученика в семестр, в основном онлайн.
+  - role: Волонтёр компьютерного класса
+    org: Школьный компьютерный класс
+    start: 2023-09-01
+    end: 2025-05-31
+    summary: |
+      Готовил машины к занятиям, переустанавливал программы и поддерживал
+      принтеры в рабочем состоянии.
+
+skills:
+  - name: Программирование
+    items:
+      - label: Python
+        level: 4
+      - label: C++
+        level: 3
+      - label: HTML и CSS
+        level: 3
+  - name: Инструменты
+    items:
+      - label: Git
+        level: 3
+      - label: Markdown
+        level: 4
+      - label: LaTeX
+        level: 3
+      - label: Основы Linux
+        level: 3
+  - name: Хобби
+    items:
+      - label: Шахматы
+        level: 4
+      - label: Велосипед
+        level: 3
+      - label: Научная фантастика
+        level: 4
+
+languages:
+  - name: Русский
+    level: 5
+    label: Родной
+  - name: Английский
+    level: 3
+    label: Средний уровень
+
+awards:
+  - title: Призёр школьного этапа Всероссийской олимпиады по информатике
+    awarder: Департамент образования Москвы
+    date: "2024-11-15"
+    icon: hero/trophy
+  - title: Сертификат курса по программированию на Python
+    awarder: Stepik
+    date: "2024-05-20"
+    icon: hero/academic-cap
