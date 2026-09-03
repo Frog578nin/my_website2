@@ -45,10 +45,63 @@ education:
     start: 2014-09-01
     end: 2025-06-20
 
-experience: []
+experience:
+  - role: Informatics tutor
+    org: Self-employed
+    start: 2024-09-01
+    summary: |
+      I help school students with Python basics and exam preparation in
+      informatics. Usually two or three students a semester, mostly online.
+  - role: Computer lab volunteer
+    org: School computer lab
+    start: 2023-09-01
+    end: 2025-05-31
+    summary: |
+      Set up machines before classes, reinstalled software and kept the
+      printers running.
 
-skills: []
+skills:
+  - name: Programming
+    items:
+      - label: Python
+        level: 4
+      - label: C++
+        level: 3
+      - label: HTML & CSS
+        level: 3
+  - name: Tools
+    items:
+      - label: Git
+        level: 3
+      - label: Markdown
+        level: 4
+      - label: LaTeX
+        level: 3
+      - label: Linux basics
+        level: 3
+  - name: Hobbies
+    items:
+      - label: Chess
+        level: 4
+      - label: Cycling
+        level: 3
+      - label: Science fiction books
+        level: 4
 
-languages: []
+languages:
+  - name: Russian
+    level: 5
+    label: Native
+  - name: English
+    level: 3
+    label: Intermediate
 
-awards: []
+awards:
+  - title: Prize winner, school stage of the All-Russian Olympiad in Informatics
+    awarder: Moscow Department of Education
+    date: "2024-11-15"
+    icon: hero/trophy
+  - title: Certificate, Python programming course
+    awarder: Stepik
+    date: "2024-05-20"
+    icon: hero/academic-cap

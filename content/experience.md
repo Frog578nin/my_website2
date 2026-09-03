@@ -24,7 +24,7 @@ sections:
       username: me
   - block: resume-awards
     content:
-      title: Awards
+      title: Accomplishments
       username: me
   - block: resume-languages
     content:
