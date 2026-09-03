@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Projects
+      text: Things I've built so far, starting with this site. The list is short and I intend to fix that.
       filters:
         folders:
           - projects
