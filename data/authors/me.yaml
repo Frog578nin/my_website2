@@ -26,6 +26,32 @@ links:
   - icon: at-symbol
     url: mailto:1132249999@rudn.ru
     label: E-mail
+  - icon: brands/github
+    url: https://github.com/Frog578nin
+    label: GitHub
+  # Research profiles: replace the URLs below with personal profile links
+  # once the accounts are registered.
+  - icon: hero/book-open
+    url: https://elibrary.ru/
+    label: eLibrary
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+    label: Google Scholar
+  - icon: academicons/orcid
+    url: https://orcid.org/
+    label: ORCID
+  - icon: academicons/mendeley
+    url: https://www.mendeley.com/
+    label: Mendeley
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/
+    label: ResearchGate
+  - icon: academicons/academia
+    url: https://www.academia.edu/
+    label: Academia.edu
+  - icon: academicons/arxiv
+    url: https://arxiv.org/
+    label: arXiv
 
 interests:
   - Python programming
