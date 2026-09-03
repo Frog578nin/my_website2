@@ -30,7 +30,7 @@ links:
     url: https://github.com/Frog578nin
     label: GitHub
   # Still pointing at the sites themselves: eLibrary, Google Scholar,
-  # Mendeley, ResearchGate and arXiv await personal profile links.
+  # Mendeley and arXiv await personal profile links.
   - icon: hero/book-open
     url: https://elibrary.ru/
     label: eLibrary
@@ -44,7 +44,7 @@ links:
     url: https://www.mendeley.com/
     label: Mendeley
   - icon: academicons/researchgate
-    url: https://www.researchgate.net/
+    url: https://www.researchgate.net/profile/Kirill-Cheluhaev
     label: ResearchGate
   - icon: academicons/academia
     url: https://independent.academia.edu/KirillCheluhaev
